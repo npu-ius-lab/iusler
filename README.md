@@ -1,4 +1,4 @@
-# IUSLer Robotics Team
+# NPU-IUSLer Robotics Team
 
 # About
 
