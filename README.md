@@ -29,7 +29,7 @@ https://github.com/cavayangtao/iusler/blob/main/iusler_robocup2023.pdf
 
 # Related Publications
 
-1.Pan, Y, Wang, J, Chen, F, Lin, Z, Zhang, S, Yang, T. How Does Monocular Depth Estimation Work for MAV Navigation in the Real World?. International Conference on Autonomous Unmanned Systems (ICAUS). 2022.
+1. Pan, Y, Wang, J, Chen, F, Lin, Z, Zhang, S, Yang, T. How Does Monocular Depth Estimation Work for MAV Navigation in the Real World?. International Conference on Autonomous Unmanned Systems (ICAUS). 2022.
 
 2. Yang T, Li Y, Ruichek Y, Yan Z. Performance Modeling a Near-infrared ToF LiDAR under Fog: A Data-driven Approach. IEEE Transactions on Intelligent Transportation Systems (T-ITS). 2021.
 
