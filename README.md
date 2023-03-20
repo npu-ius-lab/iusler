@@ -25,6 +25,6 @@ Dr. Tao Yang, Assistant Professor, founder and team advisor, mainly responsible 
 
 RoboCup Rescue 2023 - Virtual Robot Simulation:
 
-
+https://github.com/cavayangtao/iusler/blob/main/iusler_robocup2023.pdf
 
 # Related Publications
