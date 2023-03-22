@@ -3,7 +3,7 @@
 ## About
 
 NPU-IUSLer is a team that represents the Intelligent Unmanned Systems Laboratory (IUSL) at the Unmanned System Research Institute (USRI), Northwestern Polytechnical University (NPU), China, founded in 2020, aiming to participate in robotics competitions.
-Our team focuses on the research of perception, self-localization, and robot navigation in changing environments. Under our research objective, we have participated in a number of robot competitions including drone obstacle avoidance and F1TENTH autonomous racing (competitions under ICAUS 2021, 2022) in China. We are currently extending our research into the area of multi-robot perception and mission planning.
+Our team focuses on the research of perception, self-localization, and robot navigation in changing environments. Under our research objectives, we have participated in a number of robot competitions including drone obstacle avoidance and F1TENTH autonomous racing (competitions under ICAUS 2021, 2022) in China. We are currently extending our research into the area of multi-robot perception and mission planning.
 
 ## Members
 
@@ -24,7 +24,7 @@ Yongzhou Pan, bachelor's student.
 
 ## Team Description Paper
 
-RoboCup Rescue 2023 - Virtual Robot Simulation:
+RoboCup Rescue Simulation Virtual Robot Competitions 2023:
 
 https://github.com/cavayangtao/iusler/blob/main/iusler_robocup2023.pdf
 
