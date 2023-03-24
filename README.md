@@ -28,6 +28,10 @@ RoboCup Rescue Simulation Virtual Robot Competitions 2023:
 
 https://github.com/cavayangtao/iusler/blob/main/iusler_robocup2023.pdf
 
+## Open Source
+
+We have an air-ground robotics [course (in Chinese)](https://github.com/cavayangtao/npurobocourse) at NPU. In the course, you can find some [ROS code](https://github.com/cavayangtao/rmtt_ros/tree/main/rmtt_tracker) of object tracker, gesture controller, path tracker, etc. We will continue to enrich the course by participating in robotics competitions.
+
 ## Related Publications
 
 1. Pan Y, Wang J, Chen F, Lin Z, Zhang S, Yang T. How Does Monocular Depth Estimation Work for MAV Navigation in the Real World?. International Conference on Autonomous Unmanned Systems (ICAUS). 2022.
