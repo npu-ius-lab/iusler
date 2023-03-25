@@ -3,7 +3,7 @@
 ## About
 
 NPU-IUSLer is a team that represents the Intelligent Unmanned Systems Laboratory (IUSL) at the Unmanned System Research Institute (USRI), Northwestern Polytechnical University (NPU), China, founded in 2020, aiming to participate in robotics competitions.
-Our team focuses on the research of perception, self-localization, and robot navigation in changing environments. Under our research objectives, we have participated in a number of robot competitions including drone obstacle avoidance and F1TENTH autonomous racing (competitions under ICAUS 2021, 2022) in China. We are currently extending our research into the area of multi-robot perception and mission planning.
+Our team focuses on the research of perception, self-localization, and robot navigation in changing environments. Under our research objectives, we had participated in a number of robot competitions including drone obstacle avoidance and F1TENTH autonomous racing (competitions under ICAUS 2021, 2022) in China. We are currently extending our research into the area of multi-robot perception and mission planning.
 
 ## Members
 
@@ -30,7 +30,7 @@ https://github.com/cavayangtao/iusler/blob/main/iusler_robocup2023.pdf
 
 ## Open Source
 
-We have an air-ground robotics [course (in Chinese)](https://github.com/cavayangtao/npurobocourse) at NPU. In the course, you can find some [ROS code](https://github.com/cavayangtao/rmtt_ros/tree/main/rmtt_tracker/scripts) of object tracker, gesture controller, path tracker, etc. We will continue to enrich the course by participating in robotics competitions.
+We have an air-ground robotics [course (in Chinese)](https://github.com/cavayangtao/npurobocourse) at NPU. In the course, you can find some [ROS code](https://github.com/cavayangtao/rmtt_ros/tree/main/rmtt_tracker/scripts) of object tracker, gesture controller, path tracker, etc. We will continue to enrich the course and open-source code by participating in robotics competitions.
 
 ## Related Publications
 
