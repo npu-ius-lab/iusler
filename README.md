@@ -1,6 +1,6 @@
 # NPU-IUSLer Robotics Team
 
-News 2023.08.02: The repo is the team page for RoboCup Rescue Simulation Virtual Robot Competitions 2023. Although we qualified for the final, it's a shame that this competition track was eventually canceled. The source code corresponding to the technical report is released including autonomous exploration, multi-robot mapping, and object detection based on ROS2. Please check the section of Open Source for more details.
+News (2023-08-02): The repo is the team page for RoboCup Rescue Simulation Virtual Robot Competitions 2023. Although we qualified for the final, it's a shame that this competition track was eventually canceled. The source code corresponding to the technical report is released including autonomous exploration, multi-robot mapping, and object detection based on ROS2. Please check the sections of Team Description Paper and Open Source for more details.
 
 ## About
 
@@ -32,7 +32,7 @@ https://github.com/cavayangtao/iusler/blob/main/iusler_robocup2023.pdf
 
 ## Open Source
 
-We have an air-ground robotics [course (in Chinese)](https://github.com/cavayangtao/npurobocourse) at NPU. In the course, you can find some [ROS code](https://github.com/cavayangtao/rmtt_ros/tree/main/rmtt_tracker/scripts) of object tracker, gesture controller, path tracker, etc. We will continue to enrich the open-source content by participating in robotics competitions.
+For more details, please check the Team Description Paper.
 
 ### Build
 cd catkin_ws/src
