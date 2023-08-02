@@ -70,6 +70,10 @@ conda activate your env
 python yolov5_ros2_node.py
 ```
 
+## Copyright
+
+Please check [here](LICENSE).
+
 ## Related Publications
 
 1. Pan Y, Wang J, Chen F, Lin Z, Zhang S, Yang T. How Does Monocular Depth Estimation Work for MAV Navigation in the Real World?. International Conference on Autonomous Unmanned Systems (ICAUS). 2022.
