@@ -1,0 +1,33 @@
+yolov5_ros2:
+  ros__parameters:
+    confidence_threshold: 0.55
+    iou_threshold: 0.45
+    agnostic_nms: true
+    maximum_detections: 1000
+    classes:
+    line_thickness:
+    view_image:
+    weights:
+    device:
+    dnn:
+    data:
+    inference_size_w:
+    inference_size_h:
+    half:
+    input_image_topic:
+    output_topic:
+    publish_image:
+    output_image_topic:
+
+    # known_init_poses: false
+
+    # Define here robots' positions in the map if known_init_poses is true 
+    /robot1/map_merge/init_pose_x: 2.0 #2.0, -1, 0.01, 0, 0, 0
+    /robot1/map_merge/init_pose_y: -1.0
+    /robot1/map_merge/init_pose_z: 0.01
+    /robot1/map_merge/init_pose_yaw: 0.0
+
+    /robot2/map_merge/init_pose_x: 3.0
+    /robot2/map_merge/init_pose_y: -1.0
+    /robot2/map_merge/init_pose_z: 0.0
+    /robot2/map_merge/init_pose_yaw: 0.0

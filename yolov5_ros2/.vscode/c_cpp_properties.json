@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/tianbot/RoboCup2022RVRL_Demo/install/rvrl_gazebo/include/**",
+        "/home/tianbot/RoboCup2022RVRL_Demo/install/multirobot_map_merge/include/**",
+        "/home/tianbot/RoboCup2022RVRL_Demo/install/explore_lite/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/tianbot/yolov5_ws/src/vision_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
