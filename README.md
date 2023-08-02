@@ -48,8 +48,8 @@ ros2 launch rvrl_gazebo house_map.launch.py
 ```bash
 source install/setup.bash
 ros2 launch slam_gmapping slam_gmapping.launch.py namespace:=robot1
-source install/setup.bash
 bash
+source install/setup.bash
 ros2 launch slam_gmapping slam_gmapping.launch.py namespace:=robot2
 ```
 3. Start map merge
