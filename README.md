@@ -72,7 +72,7 @@ python yolov5_ros2_node.py
 
 ## Copyright
 
-Please check [here](LICENSE).
+Please check [here](LICENSE.txt).
 
 ## Related Publications
 
