@@ -1,6 +1,6 @@
 # NPU-IUSLer Robotics Team
 
-News (2023-08-02): The repo is the team page for RoboCup Rescue Simulation Virtual Robot Competitions 2023. Although we qualified for the final, it's a shame that this competition track was eventually canceled. The source code corresponding to the technical report is released including autonomous exploration, multi-robot mapping, and object detection based on ROS2. Please check the sections of Team Description Paper and Open Source for more details.
+News (2023-08-02): The repo is the team page for RoboCup Rescue Simulation Virtual Robot Competitions 2023. Although we qualified for the final, it's a shame that this competition track was eventually canceled. The source code corresponding to the technical report is released including autonomous exploration, multi-robot mapping, and object detection based on ROS2.
 
 ## About
 
