@@ -42,7 +42,7 @@ colcon build
 ```
 ### Usage
 cd catkin_ws
-1. Start three robots in gazebo with:
+1. Start three robots in the Gazebo with:
 ```bash
 source install/setup.bash
 ros2 launch rvrl_gazebo house_map.launch.py
@@ -60,12 +60,12 @@ ros2 launch slam_gmapping slam_gmapping.launch.py namespace:=robot2
 source install/setup.bash
 ros2 launch multirobot_map_merge map_merge.launch.py
 ```
-You can see two maps from robot1 and robot2 merge to a single one
+You can see two maps from robot1 and robot2 merge into a single one
 
 4.Yolov5 in ros2
 ```bash
 cd path to yolov5_ros2_node.py
-source ~/ananconda/bin/activate
+source ~/anaconda/bin/activate
 conda activate your env
 python yolov5_ros2_node.py
 ```
